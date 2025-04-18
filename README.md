@@ -1,36 +1,49 @@
-👋 Hey there, I'm Md Khushtar Ali (@Kaif2684)
-🚀 Tech Explorer | AI & ML Enthusiast | Blockchain Developer | Problem Solver | Web 3.0 |
+👨‍💻 Md Khushtar Ali (@Kaif2684)
+🚀 AI & ML Enthusiast | Blockchain Developer | Web3 Innovator | Hackathon Finalist
 
-🔬 Passionate about AI, Machine Learning, Web3.0, and Blockchain
-💡 Turning ideas into innovative projects with cutting-edge tech
-🎮 Love building AI-powered agents, fitness apps, and smart assistants
+🔍 About Me
+I'm a tech-driven problem solver passionate about Artificial Intelligence, Machine Learning, Web3.0, and Blockchain. I specialize in building innovative, real-world applications using cutting-edge technologies and scalable architectures.
 
-🔥 What I Do
-🧠 AI & ML – Deep Learning, Computer Vision, NLP, Reinforcement Learning
-📊 Data Science – Analytics, Visualization, Model Evaluation
-🌐 Web & Blockchain – Web3.0, Smart Contracts, DApps
-💻 Tech Stack – Python, C++, Java, React, Flask, PyTorch, TensorFlow
+💼 What I Do
+🧠 AI & ML: Deep Learning, NLP, Computer Vision, Reinforcement Learning
 
-💼 Projects
-🚴 FitnFrame App – AI-powered fitness tracker with real-time posture correction
-📹 Lip Reading AI – Converts silent video frames into text using Deep Learning
-🤖 AI Street Fighter Agent – Reinforcement Learning-based self-learning game bot
-📰 Fake News Detector – ML-powered NLP model to combat misinformation
+📊 Data Science: Data Analytics, Visualization, Model Evaluation
 
-🏆 Achievements
+🌐 Web & Blockchain: Web3.0, DApps, Smart Contracts
+
+💻 Tech Stack: Python, C++, Java, Flask, FastAPI, React, PyTorch, TensorFlow, Scikit-learn
+
+🛠️ Featured Projects
+🧠 Cognitive Decline Detector – Speech intelligence system that detects early signs of cognitive stress using audio and NLP analysis
+
+💼 Internship assistand finder – ML-powered platform that recommends internships based on skillsets, interest, and live opportunities
+
+⚙️ FitnFrame App – AI-driven fitness tracker with real-time posture correction using computer vision
+
+🗣️ Lip Reading AI – Converts silent video frames into text using deep learning
+
+🎮 AI Street Fighter Agent – Reinforcement learning-based self-learning game bot
+
+🏆 Achievements & Highlights
 🏅 5-Star Python Coder on HackerRank
-🎓 Finalist in IIT Delhi AI Hackathon
-📈 Developed AI models with 90%+ accuracy
-🥋 Bronze Medalist in Asian Martial Arts (Taekwondo)
 
+🎓 Grand Finalist in 3 out of 4 Hackathons, including IIT Delhi’s AI Hackathon
 
-🌍 Languages
-🇬🇧 English | 🇮🇳 Hindi | 🇦🇪 Arabic (Reading) | 🇵🇰 Urdu (Speaking) | 🇩🇪 German (Beginner)
+🤖 Built and deployed AI models with 90%+ accuracy in real-world use cases
 
-📫 Let's Connect!
+🥋 Bronze Medalist – Asian Martial Arts Championship (Taekwondo)
+
+🌐 Languages
+🇬🇧 English | 🇮🇳 Hindi | 🇵🇰 Urdu (Speaking) | 🇦🇪 Arabic (Reading) | 🇩🇪 German (Beginner)
+
+📬 Let's Connect
 💌 Email: md.khushtarali268@gmail.com
-🔗 LinkedIn: md-khushtar-ali
-🐙 GitHub: Kaif2684
-🐦 Twitter/X: md_ali94328
 
-🌟 "Code, Learn, Innovate, Repeat!" 🚀
+🔗 LinkedIn: md-khushtar-ali
+
+🐙 GitHub: Kaif2684
+
+🐦 Twitter/X: @md_ali94328
+
+"Code, Learn, Innovate, Repeat." 🚀
+
